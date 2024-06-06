@@ -30,11 +30,9 @@ my-chrome-extension/
 ├── popup.js
 ├── background.js
 └── icon.png
-└── logo.png
 ```
 - `manifest.json`: The configuration file for the Chrome extension.
 - `popup.html`: The HTML file for the extension's popup interface.
 - `popup.js`: The JavaScript file handling the button click event in the popup.
 - `background.js`: The background script for the extension.
-- `icon.png`: The icon displayed in the Chrome toolbar.
-- `logo.png`: The logo displayed in the README.
+- `icon.png`: The icon displayed in the Chrome toolbar and README.
